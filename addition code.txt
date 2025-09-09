@@ -1,0 +1,6 @@
+Num1 = input("Type a number: ")
+Num2 = input("Type another number: ")
+
+sum = int(Num1) + int(Num2)
+
+print("The Total is: ", sum)
