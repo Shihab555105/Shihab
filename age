@@ -1,0 +1,9 @@
+name = input("What is your name? ")
+age = int(input("what is your age? "))
+age2 = age + 2
+print ("You will be", age2 ,"in 2 years time")
+print ("You have lived", age2 // 10, "decade and", age % 10, "years")name = input("What is your name? ")
+age = int(input("what is your age? "))
+age2 = age + 2
+print ("You will be", age2 ,"in 2 years time")
+print ("You have lived", age2 // 10, "decade and", age % 10, "years")
